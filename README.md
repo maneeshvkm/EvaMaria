@@ -63,6 +63,15 @@ You can deploy this bot anywhere.
 </p>
 </details>
 
+<details><summary>Deploy To Railway</summary>
+<p>
+<br>
+<a href="https://railway.app?referralCode=EvamariaTG">
+  <img src="https://railway.app/button.svg" alt="Deploy">
+</a>
+</p>
+</details>
+
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
